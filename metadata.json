@@ -1,0 +1,8 @@
+{
+  "name": "Seido Detailing Studio",
+  "description": "A premium, minimalist single-page website featuring high-end aesthetics for a precision-focused Bradford car detailing service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
